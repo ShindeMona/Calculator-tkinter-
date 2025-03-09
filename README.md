@@ -1,5 +1,5 @@
 # Calculator-tkinter-
-HOW TO RUN ON TERMINAL<br />
+<b>HOW TO RUN ON TERMINAL<b><br />
 python calculatorGUIapplication.py<br/>
-INFORMATION:<br/>
+<b>INFORMATION:<b><br/>
 This Application helps to evaluate Addition ,Substraction,Mutliplications,Division,Modulos operations<br/>
